@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://all:@bc123456@cluster0.dagoa.mongodb.net/shortster?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
